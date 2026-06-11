@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/syedharismujtaba/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/sellers/harismujtaba959/">
+  <a href="https://www.fiverr.com/harismujtaba959">
     <img src="https://img.shields.io/badge/Fiverr-1FDE7D?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </div>
