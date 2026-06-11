@@ -50,20 +50,13 @@
 
 ---
 
-### 📊 Specialized Analytical Domains
-
-* **Financial Market Liquidity Analysis:** Advanced application of Smart Money Concepts (SMC), focusing on algorithmic order blocks, Fair Value Gaps (FVG), institutional liquidity sweeps, and systemic risk pricing.
-* **Server Infrastructure & Mitigation:** Continuous research into system optimization, high-traffic request pooling, and custom defensive scripts for web server security.
-
----
-
 ### 🤝 Professional Interfacing
 
 <div align="center">
   <a href="mailto:harismujtaba123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/syedharismujtaba/">
+  <a href="https://linkedin.com/in/syedharismujtaba">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.fiverr.com/harismujtaba959">
